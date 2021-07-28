@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Deise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deise-PHP" height="30" width="40" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   <img align="center" alt="Deise-Laravel" height="30" width="40"   src="https://img.icons8.com/fluent/48/000000/laravel.png"/>
-  <img align="center" alt="Deise-Java" height="30" width="40"src="https://img.icons8.com/ios/50/fa314a/java-coffee-cup-logo--v2.png"/>
+  <img align="center" alt="Deise-Java" height="30" width="40"src="https://img.icons8.com/dusk/64/fa314a/java-coffee-cup-logo.png"/>
 </div>
   
   ##
