@@ -1,10 +1,8 @@
 ### Olá!!! eu sou a Deise Correia  👋
 
-<div>
-  <img height="180em" src="https://www.canva.com/design/DAEnms-A62A/PcVg3PIjrWorsGzFd8Vn6g/view?utm_content=DAEnms-     A62A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
-</div>
+![origami (1)](https://user-images.githubusercontent.com/71478997/130171410-37725cb1-0bc2-4abf-8dc4-21570dd6a868.gif)
 
-Here are some ideas to get you started:
+Atualmente estou:
 
 - 🔭 Hoje sou estágiaria de desenvolvimento de software 
 - 🌱 No momento estou aprendendo PHP e seus Frameworks 
