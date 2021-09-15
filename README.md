@@ -1,6 +1,6 @@
 ### 
 
-![origami (1)](https://user-images.githubusercontent.com/71478997/130171410-37725cb1-0bc2-4abf-8dc4-21570dd6a868.gif)
+![origami (1)]
 
 Atualmente estou:
 
