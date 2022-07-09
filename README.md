@@ -4,9 +4,7 @@
 
 
 Atualmente estou:
-
-- 🔭 Hoje sou estágiaria de desenvolvimento de software 
-- 🌱 No momento estou aprendendo PHP e seus Frameworks 
+ 
 - 😄 Pronouns: ela/dela
 
 <div>
