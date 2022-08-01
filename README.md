@@ -4,7 +4,8 @@
 
 
 Atualmente estou:
- 
+- Recomeçando na área de programação e desenvolvendo as minhas habilidades
+- Trabalhando como Jovem Aprendiz em Supermercados como Repositora de mercadorias 
 - 😄 Pronouns: ela/dela
 
 <div>
