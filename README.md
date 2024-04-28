@@ -1,13 +1,5 @@
 ### 
 
-<h1>Olá meu nome é Deise</h1>
-
-
-Atualmente estou:
-- Recomeçando na área de programação e desenvolvendo as minhas habilidades
-- Trabalhando como Jovem Aprendiz em Supermercados como Repositora de mercadorias 
-- 😄 Pronouns: ela/dela
-
 <div>
   <a href="https://github.com/DeiseCorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deisecorreia&layout=compact&langs_count=7&theme=dark"/>
